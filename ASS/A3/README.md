@@ -1,0 +1,2 @@
+For questions 1, run the Q1.py file and to perform each beta, choose the beta from line 148 to 150, from line 155 to 168, these are lines to select different methods of SGD, just do comment and uncomment 
+For questions 2, run the Q2.py file, it can be directly run, and the result will be shown in the terminal

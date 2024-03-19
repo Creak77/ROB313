@@ -1,0 +1,1 @@
+The result can be directly worked out by running the neural_network.py
